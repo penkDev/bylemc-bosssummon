@@ -1,0 +1,10 @@
+com\iridium\iridiumcolorapi\IridiumColorAPI.class
+org\penk\bylemcBosssummon\BossSummonListener.class
+org\penk\bylemcBosssummon\BylemcBosssummon.class
+org\penk\bylemcBosssummon\commands\GiveSummonItemCommand.class
+com\iridium\iridiumcolorapi\patterns\GradientPattern.class
+com\iridium\iridiumcolorapi\patterns\Pattern.class
+org\penk\bylemcBosssummon\PreventCraftingListener.class
+com\iridium\iridiumcolorapi\patterns\RainbowPattern.class
+com\iridium\iridiumcolorapi\patterns\SolidPattern.class
+org\penk\bylemcBosssummon\commands\ReloadConfigCommand.class

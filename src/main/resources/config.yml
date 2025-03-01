@@ -1,0 +1,7 @@
+boss-name: goblinking
+item-type: NETHER_STAR
+item-name: "&6Summon Boss"
+item-lore:
+  - "&6Summon Boss"
+  - "&7Use this item to summon a powerful boss."
+custom-model-data: 123456

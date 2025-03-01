@@ -1,0 +1,17 @@
+name: bylemc-bosssummon
+version: '1.0-SNAPSHOT'
+main: org.penk.bylemcBosssummon.BylemcBosssummon
+api-version: '1.19'
+depend: [MythicMobs]
+
+commands:
+  givesummonitem:
+    description: Gives the Summon Boss item to a player.
+    usage: /givesummonitem
+    permission: bylemc.bosssummon.givesummonitem
+    permission-message: You do not have permission to use this command.
+  summonbossreload:
+    description: Reloads the configuration file.
+    usage: /summonbossreload
+    permission: bylemc.bosssummon.reload
+    permission-message: You do not have permission to use this command.
